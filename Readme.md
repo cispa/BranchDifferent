@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="512" height="405">
 
-Code for Spectre V1 and V2 PoC and covert channel used in the paper.
+Code for Spectre V1 and V2 PoC and covert channel used in [the paper](https://misc0110.net/files/applespectre_dimva22.pdf).
 
 
 ## Overview
